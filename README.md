@@ -74,6 +74,7 @@ SQL FUnctions
 ->SELECT AVG(Price)FROM Products;
 24.Use an SQL function to calculate the sum of all the Price column values in the Products table.
 ->SELECT Sum(Price)FROM Products;
+and
 
 
 SQL Like
